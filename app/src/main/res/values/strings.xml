@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">apolloVideoSlider</string>
+    <string name="Apollo_slider_title">Apollo Slider</string>
+    <string name="simple_transformation">Simple transformation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
